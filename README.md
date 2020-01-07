@@ -2,8 +2,10 @@
 Web App para administrar una colección de GIFs creada por el usuario.
 
 ## Acerca del proyecto
+* Descomprimir server y client.
 * Para ejecutar el servidor Spring, compilar utilizando Java 11.
-* Para ejecutar el cliente Angular, hacer un build con Angular con el comando ```ng serve```.
+* Para ejecutar el cliente Angular, hacer un build con Angular con el comando ```ng serve``` 
+  o utilizar el build de producción con ```ng serve --prod```.
 
 ## Demo
 ![](demo.gif)
